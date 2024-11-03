@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Excuse_me] 🎯
+# Excuse_me 🎯
 
 
 ## Basic Details
@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [Adarsh_Abraham] - [TIST]
-- Member 2: [ANAN_M_BINOJ] - [TIST]
-- Member 3: [ARJUN_T_AKHILESH] - [TIST]
+- Team Lead: Adarsh_Abraham - TIST
+- Member 2: ANAN_M_BINOJ - TIST
+- Member 3: ARJUN_T_AKHILESH - TIST
 
 ### Project Description
 The Peter Griffin Excuse Generator is a humor-driven web app that generates witty, over-the-top excuses for various situations inspired by the iconic character Peter Griffin. Users can choose from preset categories like "Late to Work" or "Missed Assignment," or input a custom prompt to receive a unique, sarcastic excuse. Featuring a playful interface, voice playback, and plenty of comedic flair, this app delivers a quick laugh and a perfect "Peter-approved" excuse for every occasion!
@@ -70,7 +70,7 @@ For Hardware:
 For Software:
 # Installation
 1)Clone the Repository:
-git clone <repository-url>
+git clone https://github.com/Adarshabrahamjohnson12/uselesss_decrypts
 cd <repository-directory>
 2)Set Up a Virtual Environment (optional but recommended):
 python -m venv venv
@@ -189,7 +189,7 @@ explain the content and main working of the video in step by step video
 ## Team Contributions
 - Adarsh Abraham Johnson: Frontend, Backend
 - Anan M Binoj: Design
-- Arjun T Akhilesh: Design
+- Arjun T Aghilesh: Design
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
